@@ -1,0 +1,3 @@
+pyro_knight | a fierce young female pyro knight, short spiky red hair, golden eyes, ornate red and black armored dress with flame motifs, metal gauntlets, thigh boots
+cryo_mage | an elegant young female cryo mage, long pale blue hair, ice-blue eyes, white and silver layered dress with snowflake patterns, fur trim, holding a crystal staff
+electro_samurai | a young female electro samurai, purple high ponytail, violet eyes, purple and gold short kimono dress, lightning motifs, tall socks, katana

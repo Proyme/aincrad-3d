@@ -1,0 +1,44 @@
+# Configuration du pipeline de génération 3D
+# Calibré pour RTX 2070 (8 Go VRAM, Turing) sous Windows.
+
+hardware:
+  device: cuda          # cuda | cpu
+  dtype: float16        # Turing => fp16 (PAS de bf16)
+  vram_gb: 8
+  low_vram: true        # charge/décharge les modèles séquentiellement
+
+paths:
+  models: models
+  outputs: outputs
+  inputs: inputs
+  third_party: third_party
+
+# Étape 1 — texte -> image concept (Stable Diffusion)
+concept:
+  model: "sd-legacy/stable-diffusion-v1-5"   # remplacer par un checkpoint anime/Genshin
+  lora: null                                  # chemin .safetensors d'un LoRA Genshin (Civitai)
+  lora_scale: 0.8
+  steps: 30
+  cfg: 7.0
+  width: 512
+  height: 768
+  # PROMPT PARFAIT (sources : prompthero/stablediffusionweb + best practices Hunyuan)
+  # sujet unique, A-pose, fond blanc, cel-shading plat -> idéal concept Genshin + entrée 3D
+  style_suffix: "1girl, solo, full body, head to toe, Genshin Impact official character concept art, standing A-pose, arms slightly apart from body, facing viewer, front view, symmetrical, cel shading, flat colors, clean bold lineart, two-tone shading, vibrant colors, detailed costume, plain white background, centered, character fully visible"
+  negative_extra: "multiple views, character sheet, turnaround, multiple characters, 2girls, text, watermark, signature, logo, cropped, out of frame, close-up, portrait, from behind, back view, realistic, photorealistic, 3d render, cinematic, soft gradient shading, blurry, lowres, bad anatomy, bad hands, extra fingers, extra limbs, fused fingers, busy background, scenery"
+
+# Étape 2 — image -> mesh 3D
+image_to_3d:
+  backend: triposr      # triposr (rapide) | hunyuan3d (qualité)
+  resolution: 256       # résolution de la grille marching cubes (256 = équilibre 8 Go)
+  remove_background: true
+  foreground_ratio: 0.85
+  hunyuan_model: "tencent/Hunyuan3D-2mini"   # variante légère pour 8 Go
+  bake_texture: false   # texture UV Hunyuan (nécessite rasterizer compilé)
+
+# Étape 4 — Blender (export + cel-shader)
+blender:
+  exe: "C:/Program Files/Blender Foundation/Blender 5.1/blender.exe"
+  apply_toon: true      # applique le shader cel-shading style Genshin
+  outline: true         # contours (inverted hull)
+  export_formats: [glb, fbx]

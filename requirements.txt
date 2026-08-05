@@ -1,0 +1,23 @@
+# NB : torch + torchvision s'installent A PART (build CUDA) :
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+# Dépendances du pipeline (étape 2 image->3D via TripoSR, + utilitaires)
+transformers>=4.35
+diffusers>=0.27
+accelerate
+safetensors
+huggingface-hub
+einops
+omegaconf
+trimesh
+pillow
+numpy
+rembg[gpu]          # détourage automatique du sujet (fond -> alpha)
+onnxruntime
+PyMCubes            # marching cubes en wheel précompilé (évite la compilation C++/CUDA)
+imageio
+imageio-ffmpeg
+xatlas              # dépliage UV pour textures propres
+scikit-image
+gradio              # UI finale "un clic = un perso"
+pyyaml              # lecture de config.yaml

@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "Viewer/pipeline UE5 pour les personnages generes (cel-shading style Genshin Impact). Import des .glb/.fbx depuis outputs/, materiau toon + outlines.",
+	"Modules": [],
+	"Plugins": [
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "AllToolsets",
+			"Enabled": true
+		}
+	]
+}

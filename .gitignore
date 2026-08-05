@@ -1,0 +1,30 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Poids de modèles (lourds — téléchargés séparément)
+models/
+third_party/
+
+# Sorties générées
+outputs/
+
+# Cache HuggingFace local éventuel
+.cache/
+
+# Unreal Engine (fichiers générés — poids/binaires, pas de source control)
+ue_project/*/Binaries/
+ue_project/*/Intermediate/
+ue_project/*/Saved/
+ue_project/*/DerivedDataCache/
+ue_project/*/.vs/
+ue_project/*/*.sln
+ue_project/*.log
+
+# Config locale Claude Code (spécifique à la machine)
+.claude/settings.local.json
+
+# Clés SSH (secrets)
+cloud_tests/runpod_key
+cloud_tests/runpod_key.pub
