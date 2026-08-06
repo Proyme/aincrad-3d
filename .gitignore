@@ -7,8 +7,10 @@ __pycache__/
 models/
 third_party/
 
-# Sorties générées
-outputs/
+# Sorties générées (les meshes/renders restent hors dépôt — trop lourds)
+outputs/*
+# ... sauf les textures de décor générées par gen_textures.py (légères, à versionner)
+!outputs/textures/
 
 # Cache HuggingFace local éventuel
 .cache/

@@ -1,0 +1,178 @@
+[
+  {
+    "file": "herbe_01.png",
+    "material": "herbe",
+    "target_material": "MI_Grass",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless grass texture, sage green desaturated grass blades, painted meadow surface, uniform texture",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, flowers, mushrooms, rocks, dirt patches, realistic grass blades, mud, distinct horizontal bands, gradient stripes, multiple tones layered",
+    "seed": 2000,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "herbe_02.png",
+    "material": "herbe",
+    "target_material": "MI_Grass",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless grass texture, sage green desaturated grass blades, painted meadow surface, uniform texture",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, flowers, mushrooms, rocks, dirt patches, realistic grass blades, mud, distinct horizontal bands, gradient stripes, multiple tones layered",
+    "seed": 2001,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_claire_01.png",
+    "material": "pierre_claire",
+    "target_material": "MI_Path (rue de la ville)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless pale beige cream sandstone paving texture, smooth flat stone slabs, simple stone paving pattern",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, ornate carving, decorative tile, faces, figures, diamond pattern, dark grout lines, gothic pattern, cracks, moss, dirt, realistic marble veining",
+    "seed": 2002,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_claire_02.png",
+    "material": "pierre_claire",
+    "target_material": "MI_Path (rue de la ville)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless pale beige cream sandstone paving texture, smooth flat stone slabs, simple stone paving pattern",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, ornate carving, decorative tile, faces, figures, diamond pattern, dark grout lines, gothic pattern, cracks, moss, dirt, realistic marble veining",
+    "seed": 2003,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_sombre_01.png",
+    "material": "pierre_sombre",
+    "target_material": "MI_TowerStone (coque Aincrad / tour du Labyrinthe)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless dark slate ardoise stone wall texture, dark blue-grey stone blocks, flat stone wall surface",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, landscape, terrain, voxel blocks scene, cubes, green, water, grass, bright colors, moss, realistic granite texture",
+    "seed": 2004,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_sombre_02.png",
+    "material": "pierre_sombre",
+    "target_material": "MI_TowerStone (coque Aincrad / tour du Labyrinthe)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless dark slate ardoise stone wall texture, dark blue-grey stone blocks, flat stone wall surface",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, landscape, terrain, voxel blocks scene, cubes, green, water, grass, bright colors, moss, realistic granite texture",
+    "seed": 2005,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "bois_clair_01.png",
+    "material": "bois_clair",
+    "target_material": "MI_Wall (charpente / moulins)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless light honey wood plank texture, pale warm wood beams, timber framing, windmill wood",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, dark wood, knots, varnish reflections, realistic wood grain",
+    "seed": 2006,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "bois_clair_02.png",
+    "material": "bois_clair",
+    "target_material": "MI_Wall (charpente / moulins)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless light honey wood plank texture, pale warm wood beams, timber framing, windmill wood",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, dark wood, knots, varnish reflections, realistic wood grain",
+    "seed": 2007,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "toit_terracotta_01.png",
+    "material": "toit_terracotta",
+    "target_material": "MI_Roof",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless terracotta clay roof tile texture, warm orange-red overlapping roof tiles, rows of curved tiles",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, diamond pattern, green tiles, mosaic, patchwork, checkerboard, moss, snow, realistic clay texture",
+    "seed": 2008,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "toit_terracotta_02.png",
+    "material": "toit_terracotta",
+    "target_material": "MI_Roof",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless terracotta clay roof tile texture, warm orange-red overlapping roof tiles, rows of curved tiles",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, diamond pattern, green tiles, mosaic, patchwork, checkerboard, moss, snow, realistic clay texture",
+    "seed": 2009,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "terre_01.png",
+    "material": "terre",
+    "target_material": "MI_Path (chemin)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless warm brown dirt path texture, packed earth surface, uniform brown soil",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, plants, bushes, arrows, symbols, compass, cross pattern, green, rocks, footprints, puddles, realistic mud texture",
+    "seed": 2010,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "terre_02.png",
+    "material": "terre",
+    "target_material": "MI_Path (chemin)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless warm brown dirt path texture, packed earth surface, uniform brown soil",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, plants, bushes, arrows, symbols, compass, cross pattern, green, rocks, footprints, puddles, realistic mud texture",
+    "seed": 2011,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_noire_01.png",
+    "material": "pierre_noire",
+    "target_material": "MI_BlackIron (nouveau — Black Iron Palace)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless very dark black matte stone texture, deep black stone blocks, obsidian black matte surface, near-black charcoal tone",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, beige, tan, light grey, ivory, bright stone, sandstone color, shiny reflections, glossy, cracks, realistic obsidian texture",
+    "seed": 2012,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "pierre_noire_02.png",
+    "material": "pierre_noire",
+    "target_material": "MI_BlackIron (nouveau — Black Iron Palace)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless very dark black matte stone texture, deep black stone blocks, obsidian black matte surface, near-black charcoal tone",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, beige, tan, light grey, ivory, bright stone, sandstone color, shiny reflections, glossy, cracks, realistic obsidian texture",
+    "seed": 2013,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "eau_01.png",
+    "material": "eau",
+    "target_material": "MI_Water (nouveau — lac)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless abstract stylized water surface texture, blue-grey toon water ripples, flat shaded water pattern",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, island, shore, land, trees, aerial map, landscape, bird's eye view scene, camouflage pattern, random color blobs, realistic reflections, foam, waves, transparent glass look",
+    "seed": 2014,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  },
+  {
+    "file": "eau_02.png",
+    "material": "eau",
+    "target_material": "MI_Water (nouveau — lac)",
+    "prompt": "seamless tileable texture swatch, close-up macro material sample, flat stylized game texture, Cube World inspired game art, clean saturated flat colors, painterly cel-shaded surface, subtle organic paint grain, single uniform material, repeating pattern, no scene, no landscape, no objects, seamless abstract stylized water surface texture, blue-grey toon water ripples, flat shaded water pattern",
+    "negative": "character, person, people, face, figure, creature, animal, isometric scene, landscape, terrain, aerial view, bird's eye view, map, diorama, miniature scene, voxel blocks, cubes, buildings, houses, trees, plants, bushes, water pool, lake scene, sky, horizon, composition, multiple different materials, patchwork, collage, grid lines, seams, ornate carving, mosaic, decorative tile pattern, blurry, watermark, signature, text, logo, border, frame, vignette, lowres, photorealistic, photo, hyperrealistic, realistic, 3d render, cinematic lighting, harsh shadows, high frequency noise, jpeg artifacts, minecraft blocky pixelated noise, island, shore, land, trees, aerial map, landscape, bird's eye view scene, camouflage pattern, random color blobs, realistic reflections, foam, waves, transparent glass look",
+    "seed": 2015,
+    "size": 512,
+    "steps": 25,
+    "cfg": 7.5
+  }
+]
